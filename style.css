@@ -515,7 +515,7 @@ main > article > .article-image-section {
 main > article > .article-description-section {
   flex-direction: column;
   justify-content: center;
-  padding: 2ch; 
+  padding: 4ch; 
 }
 
 main > article > .article-description-section > p {
