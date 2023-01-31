@@ -501,11 +501,11 @@ main > article:nth-child(2) > .article-image-section {
 }
 
 main > article:nth-child(3) > .article-image-section {
-  background-image: url("https://cdn.discordapp.com/attachments/1069876675057303632/1069900252041203743/img2.png");
+  background-image: url("https://media.discordapp.net/attachments/1069876675057303632/1069900251542077471/img3.png");
 }
 
 main > article:nth-child(4) > .article-image-section {
-  background-image: url("https://media.discordapp.net/attachments/1069876675057303632/1069900251542077471/img3.png");
+  background-image: url("https://cdn.discordapp.com/attachments/1069876675057303632/1069900252041203743/img2.png");
 }
 
 main > article > .article-image-section {
