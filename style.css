@@ -366,7 +366,7 @@ nav {
 }
 
 nav .nav-section {
-  padding: 3rem 2rem;
+  padding: 1rem 2rem;
   display: flex;
   gap: 1rem;
   border-left: 1px solid var(--border-color);
@@ -516,7 +516,7 @@ main > article > .article-image-section {
 main > article > .article-description-section {
   flex-direction: column;
   justify-content: center;
-  padding: 35px; 
+  padding: 48px; 
   
 }
 
