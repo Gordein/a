@@ -516,7 +516,7 @@ main > article > .article-image-section {
 main > article > .article-description-section {
   flex-direction: column;
   justify-content: center;
-  padding: 50px; 
+  padding: 35px; 
   
 }
 
