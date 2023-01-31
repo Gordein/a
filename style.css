@@ -342,7 +342,7 @@ body {
 }
 
 h1, h2, h3, a, p, span {
-  font-family: "Rubik", sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   font-weight: 400;
   color: white;
   margin: 0px;
@@ -541,7 +541,7 @@ main > article > .article-title-section * {
 
 main > article > .article-title-section > h2 {
   flex-basis: 50%;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   font-size: 3.5rem;
   line-height: 3rem;
   margin: 0px;
@@ -715,7 +715,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   }
 }
 
-/* -- YT link / Source link styles -- */
+/* -- Source link styles -- */
 
 main > article > .article-description-section > p  > .source-link {
   color: var(--highlight-color);
