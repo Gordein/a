@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /cgi-bin/
-Disallow: /tmp/
-Disallow: /wp-admin/
+Disallow: wp-admin/
 
 Sitemap: https://gordein.github.io/a/sitemap.xml
