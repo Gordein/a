@@ -715,6 +715,12 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   }
 }
 
+@media screen and (max-width: 1340px) and (min-width: 992px) {
+  html {
+    font-size: 50%;
+  }
+}
+
 /* -- Source link styles -- */
 
 main > article > .article-description-section > p  > .source-link {
