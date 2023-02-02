@@ -573,7 +573,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
 
 @media(max-width: 1800px) {    
   #nav-mobile-section {
-    flex-basis: calc(100% * 0.55);
+    flex-basis: calc(100% * 0.75);
   }
 
   #nav-logo-section {
@@ -592,7 +592,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   main > article {
     grid-template-columns: none;
     grid-template-rows: 1.5fr repeat(3, 0.75fr) 0.25fr;
-    height: max(900px, 100%);
+    height: max(600px, 100%);
   }
    
   main > article > .article-title-section > h2 {
