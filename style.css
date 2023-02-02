@@ -601,7 +601,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   }
   
   main > article > .article-title-section > i {
-    font-size: 3rem; 
+    font-size: 2.5rem; 
   }
   
   main > article > .article-description-section,
@@ -676,11 +676,11 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   }
   
   #nav-link-section > a {
-    font-size: 3.5rem; 
+    font-size: 2.5rem; 
   }
   
   #nav-social-section > a {
-    font-size: 2.5rem; 
+    font-size: 2rem; 
   }  
   
   #nav-contact-section {
@@ -698,12 +698,12 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   
   main > article > .article-title-section > h2 {
     flex-basis: 70%;
-    font-size: 2.25em; 
+    font-size: 1.8em; 
     line-height: 1.5rem;
   }
   
   main > article > .article-title-section > i {
-    font-size: 2.75rem; 
+    font-size: 2rem; 
   }
   
   main > article > .article-description-section {
@@ -711,7 +711,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   }
   
   main > article > .article-description-section > p {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
   }
 }
 
